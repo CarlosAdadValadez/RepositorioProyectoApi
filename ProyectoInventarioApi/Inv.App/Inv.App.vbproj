@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Inv.App</RootNamespace>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Comandos\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Consultas\" />
+    <Folder Include="Dto\" />
+  </ItemGroup>
+
+</Project>
